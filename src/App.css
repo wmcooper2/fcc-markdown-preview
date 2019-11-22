@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+}
+
+.bodydiv {
+	display: flex;
+	color: white;
+	flex-direction: row;
+	justify-content: center;
+	padding: 30px;
+	background: linear-gradient(to right, black 5%, #60606a 50%, black 95%);
+}
+
+#preview, #editor {
+	font-family: "Comic Sans MS", "Comic Sans", "Monospace";
+	color: white;
+	padding: 10px;
+	font-size: 18px;
+	background-color: black;
+	width: 50%;
+	border-style: none;
+}
+
+#editor {
+	height: 100vmax;
+	overflow-y: scroll;
+	margin-right: 2px;
+}
+#preview {
+	margin-left: 2px;
+}
