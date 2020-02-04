@@ -10,6 +10,7 @@
 
 # production
 /build
+/markdown-previewer
 
 # misc
 .DS_Store
