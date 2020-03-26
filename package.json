@@ -2,7 +2,7 @@
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://18.178.177.1/markdown-previewer",
+  "homepage": "https://wmcooper2.com/markdown-previewer",
   "dependencies": {
     "marked": "^0.7.0",
     "react": "^16.12.0",
